@@ -1,0 +1,9 @@
+git clone direccion
+----------------------------------------------------------------
+git init
+git remote add origin direccion
+git remote add origin https://github.com/oscarsolisgonzales/proyectoLaravelLiveware.git
+----------------------------------------------------------------
+git add .
+git commit -m "mi proyecto inicial de laravel con liveware"
+git push origin master
